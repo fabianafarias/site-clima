@@ -1,19 +1,19 @@
-### WEATHER APP
-Site de previsão do tempo
+### WeatherApp 
+Weather Forecast App
 
-### Registro no Accuweather:
+### Register in Accuweather:
 https://www.accuweather.com/
 
-### Acessar o clima atual com o Current conditions API:
+### Access the current weather at Current conditions API:
 https://openweathermap.org/api
 
-### Acessar o código do Local com Geoposition API:
+### Access GPS place at Geoposition API:
 https://developer.accuweather.com/accuweather-locations-api/apis/get/locations/v1/cities/geoposition/search
 
-### Acessar Latitude e Longitude com Geoplugin:
+### Access Latitude and Longitude with Geoplugin:
 https://www.geoplugin.com/
 
-### Acessando Latitude e Longitude por meio da localização através do Mapbox:
+### Access Latitude and Longitude with the location through the Mapbox:
 https://www.mapbox.com/
 
 
